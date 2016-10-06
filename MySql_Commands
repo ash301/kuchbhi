@@ -1,0 +1,14 @@
+
+
+//To start mysql in Linux 
+
+	1) sudo service mysql start
+	2) mysql -u root -p
+	
+// It will prompt u for Password of root user of MySql Server
+	
+	3)Enter the password 
+
+//you will get the MySql shell
+
+
